@@ -20,7 +20,7 @@ description: "This is a place for me to pause and reflect! I don't know how long
 #########################################################################################
 theme: "minima"
 
-rss: rss
+#rss: rss
 
 kramdown:
   syntax_highlighter_opts:
