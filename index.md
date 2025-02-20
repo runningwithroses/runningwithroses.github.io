@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Hello! My name is Rose!
 
-Maybe say a some things about yourself.
+I am a genderqueer person, and this is my blog!
 
-Or maybe what you plan to blog about.
+I hope that this little project can help me learn more about myself and that I'll be able to grow because of it! I hope you enjoy!
