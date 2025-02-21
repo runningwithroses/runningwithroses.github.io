@@ -1,4 +1,4 @@
-Whoops.
+## Whoops.
 
 I woke up today feeling kinda strange. I've felt really disconnected recently and I'm not quite sure why. I've felt like this ever since I came back from Chicago. I only had one class today but completely forgot the time we were supposed to meet, even though it's been the same time every week for the last eight weeks.
 1:00 every Thursday, that's when my piano lesson is supposed to be, but I completely missed it. I feel a little bad for wasting my Professor's time.
