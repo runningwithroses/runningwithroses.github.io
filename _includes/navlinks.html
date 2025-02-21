@@ -3,6 +3,7 @@
   {%- if page.previous.url -%}
   <a class="post_navi-item nav_prev" href="{{ page.previous.url }}" title="{{ page.previous.title }}">
     <div class="post_navi-arrow">&lt;</div><div class="post_navi-label">Previous Post</div><div><span>{{ page.previous.title }}</span></div>
+  <color: #4a0000
   </a>
   {%- else -%}
   <a class="post_navi-item nav_prev" href="{{ 'archive.html' | absolute_url }}" title="Blog Archive">
